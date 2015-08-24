@@ -1,8 +1,9 @@
 # SenateBusProblem
 
-This is Java Implementation of Semaphore based solution for the Senate Bus Problem.
+This is Java Implementation of the Semaphore based solution for Senate Bus Problem
 
 The Senate Bus Problem
+(From The Little Book of Semaphores by Allen B. Downey)
 
 This problem was originally based on the Senate bus at Wellesley College. Riders come to a bus stop and wait for a bus. 
 When the bus arrives, all the waiting riders invoke boardBus, but anyone who arrives while the bus is boarding has to 
